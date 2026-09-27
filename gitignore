@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Editor / tool artifacts
+tempCodeRunnerFile.py
+.vscode/
+
+# OS
+.DS_Store
